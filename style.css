@@ -1,0 +1,23 @@
+dvfjbv
+@font-face {
+	font-family: 'Roboto' ;
+	src:url(font-regulst);
+}
+
+o que voce fez
+
+* {
+	margin:0;
+	padding: 0;
+	list-style-type: none;
+}
+
+:root{
+	--cor1:#112222;
+	--cor2:#333;
+	--cor3:#777;
+	--cor4:#1d1e20;
+}
+.section {
+	padding: 0;
+}
